@@ -1,0 +1,8 @@
+flutter_launcher_icons:
+  image_path: "assets/icon.png"
+  android: true
+  ios: true
+  # Use a solid background color (e.g., matching the light tone of your painting's border) 
+  # so any system-enforced masking or padding seamlessly blends into the icon background.
+  adaptive_icon_background: "#E0E0E0"
+  adaptive_icon_foreground: "assets/icon.png"
